@@ -1,0 +1,3 @@
+﻿  源.cpp
+源.obj : error LNK2005: main 已经在 hello world.obj 中定义
+D:\c\code\xiangmu\2\x64\Debug\2.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
